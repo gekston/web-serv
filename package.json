@@ -1,0 +1,25 @@
+{
+  "name": "web-serv",
+  "version": "1.0.0",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nebeschenko Igor",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.2"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gekstone/web-serv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gekstone/web-serv/issues"
+  },
+  "homepage": "https://github.com/gekstone/web-serv#readme",
+  "description": ""
+}
