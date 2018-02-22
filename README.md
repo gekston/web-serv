@@ -7,6 +7,6 @@ $ npm i
 ```
 Run web-server
 ```sh
-$ npm server.js
+$ node server.js
 ```
 Open yuor favorite browser http://localhost:3000/
